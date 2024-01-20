@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:55:26 PM On 8/7/2014
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [V1 1uF 22uF] of Project [Minion.PrjPCB]
+   Generated File[Bill of Materials-Minion(V1 1uF 22uF).xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:55:31 PM On 8/7/2014

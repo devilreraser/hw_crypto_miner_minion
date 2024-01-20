@@ -1,0 +1,20 @@
+_Read me - Minion_Rev2.txt - This file;
+Minion_Rev2.xls - Component report;
+Minion_Rev2.cam - CAM350-file, include all Gerber data;
+Minion_Rev2.dxf - PCB in dxf format;
+Minion_Rev2.ipc - IPC-D-356 netlist;
+Minion_Rev2.pdf - Gerber files in pdf-format;
+AST.pho - Assembly Top;
+SPT.pho - Solder Paste Top;
+SMT.pho - Solder Mask Top;
+TOP.pho - Top layer.
+BRD.pho - Board outline;
+DRD.pho - Drill drawing;
+FAB.pho - Fabrication layer;
+BOT.pho - Bottom Layer
+L2.pho - Internal Layer 2;
+L3.pho - Internal Layer 3;
+SMB.pho - Solder Mask Bott;
+SPB.pho - Solder Paste Bott;
+DRL.drl - Drill file in format Absolute, Leading, Metric, 3.3;
+

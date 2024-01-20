@@ -1,0 +1,3 @@
+[2014-10-16 18.40.57] -------------------- CREATE --------------------
+[2014-10-16 18.40.57] Creating Project Backup infrastructure for project [D:\Projects\AltiumProjects\Minion_Rev2\PADS\Minion_Rev2\Minion_Rev2.prj].
+[2014-10-16 18.40.57] Successfully created [AutoSave] backup [2014-10-16 18.40.57 - auto.zip] requested by [DND-1285:gta].

@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Minion.PcbDoc   6/13/2014  6:06:01 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : Minion-Plated.TXT
+ASCII Non-Plated RoundHoles File : Minion-NonPlated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.2mm (7.874mil)         Round          3600             3897.37 mm (153.44 Inch)
+T2        0.3mm (11.811mil)        Round          4384             7302.94 mm (287.52 Inch)
+T3        1.15mm (45.276mil)       Round          16               62.00 mm (2.44 Inch)
+T4        1.8mm (70.866mil)        Round          18               109.92 mm (4.33 Inch)
+T5        4mm (157.48mil)          Round          18               1738.65 mm (68.45 Inch)
+T6        0.9mm (35.433mil)        Round          2         NPTH   4.40 mm (0.17 Inch)
+---------------------------------------------------------------------------
+Totals                                            8038             13115.29 mm (516.35 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:02

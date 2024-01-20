@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [22uF] of PCB Document [Minion_1_SiC780A_Rev01.PcbDoc]
+   Generated File[Pick Place for Minion_1_SiC780A_Rev01(22uF).txt]
+   Generated File[Pick Place for Minion_1_SiC780A_Rev01(22uF).csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 17:40:17 On 05.12.2014

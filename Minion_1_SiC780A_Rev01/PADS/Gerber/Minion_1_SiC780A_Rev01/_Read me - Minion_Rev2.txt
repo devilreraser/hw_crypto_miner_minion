@@ -1,0 +1,20 @@
+_Read me - Minion_1_SiC780A_Rev01.txt - This file;
+Minion_1_SiC780A_Rev01.xls - Component report;
+Minion_1_SiC780A_Rev01.cam - CAM350-file, include all Gerber data;
+Minion_1_SiC780A_Rev01.dxf - PCB in dxf format;
+Minion_1_SiC780A_Rev01.ipc - IPC-D-356 netlist;
+Minion_1_SiC780A_Rev01.pdf - Gerber files in pdf-format;
+AST.pho - Assembly Top;
+SPT.pho - Solder Paste Top;
+SMT.pho - Solder Mask Top;
+TOP.pho - Top layer.
+BRD.pho - Board outline;
+DRD.pho - Drill drawing;
+FAB.pho - Fabrication layer;
+BOT.pho - Bottom Layer
+L2.pho - Internal Layer 2;
+L3.pho - Internal Layer 3;
+SMB.pho - Solder Mask Bott;
+SPB.pho - Solder Paste Bott;
+DRL.drl - Drill file in format Absolute, Leading, Metric, 3.3;
+

@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [Minion.PcbDoc]
+   Generated File[Minion.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:03:08 PM On 6/26/2014

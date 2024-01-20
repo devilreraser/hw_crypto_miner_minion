@@ -1,0 +1,70 @@
+*PADS-ECO-V10.0-MILS*
+*REMARK*  old file: D:\Projects\AltiumProjects\Minion_1_SiC780A_Rev01\PADS\Minion_1_SiC780A_Rev01\ppcCD92.asc
+*REMARK*  new file: D:\Projects\AltiumProjects\Minion_1_SiC780A_Rev01\PADS\Minion_1_SiC780A_Rev01\Block.asc
+*REMARK*  created by ECOGEN (Version 6.4v) on 04.12.2014 16:07:01
+
+PART DIFFERENCES
+----------------
+OLD DESIGN                                        NEW DESIGN
+Ref-des	Part-type:Decal                           Ref-des	Part-type:Decal
+<none>                                            J6   PTH_DC-POWER-JACK_210-112:PTH_DC-POWER-JACK_210-112
+<none>                                            J4   PTH_HDRV40W6240P254_2X02_M:PTH_HDRV40W6240P254_2X02_M
+
+NET DIFFERENCES
+----------------
+OLD DESIGN                                        NEW DESIGN
+$1I69\$1N2799                                     $1I69\$1N2865
+$1I69\$1N2800                                     $1I69\$1N2866
+$1I69\$1N2813                                     $1I69\$1N2879
+$1I69\$1N2814                                     $1I69\$1N2880
+$1I69\$1N2815                                     $1I69\$1N2881
+$1I69\$1N2840                                     $1I69\$1N2906
+$1I69\$1N2841                                     $1I69\$1N2907
+$1I69\$1N2850                                     $1I69\$1N2912
+$1I69\$1N2851                                     $1I69\$1N2913
+$1I69\$1N2876                                     $1I69\$1N2938
+$1I69\$1N2901                                     $1I69\$1N2963
+$1I69\$1N2911                                     $1I69\$1N2979
+$1I69\$1N2918                                     $1I69\$1N2980
+$1I69\$1N2927                                     $1I69\$1N2989
+$1I69\$1N2928                                     $1I69\$1N2990
+$1I69\$1N2929                                     $1I69\$1N2991
+$1I69\$1N2938                                     $1I69\$1N3000
+$1I69\$1N2939                                     $1I69\$1N3001
+$1I69\$1N2940                                     $1I69\$1N3002
+$1I69\$1N2941                                     $1I69\$1N3003
+$1I69\$1N2942                                     $1I69\$1N3004
+$1I69\$1N2943                                     $1I69\$1N3005
+$1I69\$1N2944                                     $1I69\$1N3006
+$1I69\$1N2949                                     $1I69\$1N3011
+$1I69\$1N2950                                     $1I69\$1N3012
+$1I69\$1N2962                                     $1I69\$1N3024
+$1I69\$1N2963                                     $1I69\$1N3025
+$1I69\$1N2964                                     $1I69\$1N3034
+
+SWAPPED GATE DIFFERENCES
+------------------------
+OLD DESIGN                                        NEW DESIGN
+
+SWAPPED PIN DIFFERENCES
+------------------------
+OLD DESIGN                                        NEW DESIGN
+
+
+UNMATCHED NET PINS IN OLD DESIGN
+--------------------------------
+
+UNMATCHED NET PINS IN NEW DESIGN
+--------------------------------
+$1I69\D+            J4.4	
+$1I69\D-            J4.3	
+$1I69\USB5.0V       J4.1	
+12V                 J6.1	
+GND                 J6.2	J4.2	J6.3	
+
+ATTRIBUTE DIFFERENCES
+---------------------
+Attribute Level	[ OLD DESIGN Parent -> NEW DESIGN Parent ]
+
+          Attribute Name           Old Value                New Value
+

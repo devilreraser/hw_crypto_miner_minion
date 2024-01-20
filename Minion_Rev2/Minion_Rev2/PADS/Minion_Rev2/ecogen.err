@@ -1,0 +1,19 @@
+PADS Layout ECO Generator (Version 6.4v) 16.10.2014 18:43:21
+Copyright (c) 2003 - 2008 Mentor Graphics Corp. - All rights reserved
+Command line arguments:  -e D:\Projects\AltiumProjects\Minion_Rev2\PADS\Minion_Rev2\ecogen.err -u NOT_CONNECTED -d D:\Projects\AltiumProjects\Minion_Rev2\PADS\Minion_Rev2\powerpcb.rep -r pa -a PCB,PART,NET,PIN -f
+78 msec
+3 msec
+Reading the OLD DESIGN
+There are 1056 parts in the design
+There are 147 signals in the design
+There are 5995 pins in the design
+151 msec
+Reading the NEW DESIGN
+There are 873 parts in the design
+There are 147 signals in the design
+There are 5629 pins in the design
+62 msec
+Final cost=17568
+Partitioning - 154 msec
+Final Matching - 298 msec
+Deleted pins: 366,  Added pins: 0
